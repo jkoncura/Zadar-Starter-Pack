@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Zadar - Starter Pack</string>
+
+    <string name="category_beaches">BEACHES</string>
+    <string name="category_nightlife">NIGHTLIFE</string>
+    <string name="category_cuisine">CUISINE</string>
+
+    //Beaches-titles
+    <string name="kolovare">Kolovare Beach</string>
+    <string name="borik">Borik Beach</string>
+    <string name="diklo">Diklo Beach</string>
+    <string name="public_pool">Public Pool</string>
+    <string name="nins_lagoon">Nin\'s Lagoon</string>
+    <string name="saharun">Saharun Beach</string>
+
+    //Nighlife-titles
+    <string name="ledana">Ledana Bar</string>
+    <string name="yachting">Yachting Bar</string>
+    <string name="kult">Kult</string>
+    <string name="svarog">Svarog Bar</string>
+    <string name="podroom">Poodrom Night Club</string>
+    <string name="la_bodega">La Bodega</string>
+    <string name="garden">The Garden Lounge</string>
+
+    //Cuisine-titles
+    <string name="shrimp_buzara">Shrimp Buzara</string>
+    <string name="dalmatian_plate">Dalmatian Plate</string>
+    <string name="octopus">Octopus under Peka</string>
+    <string name="fish">Fish on The Grill</string>
+    <string name="black_risotto">Black Risotto</string>
+    <string name="dalmatian_pasticada">Dalmatian Pašticada</string>
+    <string name="lamb">Spit Roasted Lamb</string>
+
+</resources>
