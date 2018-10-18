@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
         mViewPagerAdapter.addFragment(new BeachesFragment(),getString(R.string.category_beaches));
         mViewPagerAdapter.addFragment(new NightLifeFragment(),getString(R.string.category_nightlife));
 
-
         mViewPager.setAdapter(mViewPagerAdapter);
         mTabLayout.setupWithViewPager(mViewPager);
 
